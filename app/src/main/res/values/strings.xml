@@ -1,3 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
 <resources>
-    <string name="app_name">OskarPavlovHero</string>
+    <string name="app_name">ЕДА</string>
+    <string name="dog_name_1">Бургер</string>
+    <string name="dog_name_2">Корндог</string>
+    <string name="dog_name_3">Наггетсы</string>
+    <string name="dog_name_4">Луковые кольца</string>
+    <string name="dog_name_5">Сырные палочки</string>
+    <string name="dog_name_6">Куриные крылышки</string>
+    <string name="dog_name_7">Куриные стрипсы</string>
+    <string name="dog_name_8">Тзейтель</string>
+    <string name="dog_name_9">Лирой</string>
+    <string name="dog_description_1">котлета, булки.</string>
+    <string name="dog_description_2">хот доги на палочках</string>
+    <string name="dog_description_3">филе в панировке</string>
+    <string name="dog_description_4">очищенных луков в панировке</string>
+    <string name="dog_description_5">вид еды сыра любого в панировке</string>
+    <string name="dog_description_6">крыльев куриных в панировке</string>
+    <string name="dog_description_7">разновидность наггетсов</string>
+    <string name="dog_description_8">Загорал</string>
+    <string name="dog_description_9">Спал в опасных местах</string>
+    <string name="about">Информация:</string>
+    <string name="years_old">%d лет</string>
+    <string name="expand_button_content_description">Увидеть больше или меньше информации об собаке</string>
 </resources>
