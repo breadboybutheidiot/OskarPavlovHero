@@ -42,6 +42,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.oskarpavlovhero.ui.theme.OskarPavlovHeroTheme
+import com.example.oskarpavlovhero.data.Dog
+import com.example.oskarpavlovhero.data.dogs
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
